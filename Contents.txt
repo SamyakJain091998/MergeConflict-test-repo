@@ -1,6 +1,7 @@
 red
 green
 blue
-
 yellow 
 white
+samyak 
+jain
